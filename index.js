@@ -29,7 +29,7 @@ var lowercase = "hello!"
 
 function sayHiToGrandma(string)
 {
-  if(string === lowercase)
+  if(lowercase === string)
   {
     return "I can't hear you!"
   }
