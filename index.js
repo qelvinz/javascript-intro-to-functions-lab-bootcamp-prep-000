@@ -10,6 +10,6 @@ function whisper(string)
 
 function sayHiToGrandma(string)
 {
-  if string === lowercase
+  if sayHiToGrandma === lowercase
   return "I can't hear you";
 }
